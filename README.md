@@ -59,10 +59,4 @@ I'm actively looking to collaborate on:
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vineetkumardev&show_icons=true&theme=dark)
-
----
-
 *Explore my repositories and reach out if you'd like to collaborate on something awesome! 🚀*
