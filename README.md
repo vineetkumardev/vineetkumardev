@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vineet
-- 👀 I’m interested in Qt QML and CPP projects
-- 🌱 I’m currently learning about linux kernel
+- 👀 I’m interested in C++, Qt, QML projects
+- 🌱 I’m currently learning about RAG, Building agents.
 - 💞️ I’m looking to collaborate on projects related to above skills.
 - 📫 How to reach me : vineetkumar8249@gmail.com
 
